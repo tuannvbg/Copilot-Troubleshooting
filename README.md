@@ -40,13 +40,11 @@ Get-AppxPackage *WindowsCopilot* | Remove-AppxPackage
 Reinstall Copilot from the Microsoft Store.
 🔧 4. Khởi động lại máy
 Restart your PC after each step to ensure changes take effect
-📸 Ảnh minh họa lỗi Copilot:
-![Copilot timeout error](screenshots/copilot-timeout-error.png)
-## 🚀 Kết quả sau khi fix lỗi | Result After Applying the Fix
+## 🔧 Trước và Sau khi Fix | Before and After Fix
 
-> Sau khi áp dụng bản sửa lỗi, Copilot đã hoạt động bình thường trở lại.  
-> After applying the fix, Copilot is now working as expected.
-![Post-Fix Copilot Welcome Screen](screenshots/copilot-welcome.png)
+| Trước khi fix | Sau khi fix |
+|---------------|-------------|
+| ![Copilot timeout error](screenshots/copilot-timeout-error.png) | ![Post-Fix Copilot Welcome Screen](screenshots/copilot-welcome.png) |
 
 🙌 Credits Special thanks to Tuấn from Bắc Ninh, Vietnam — the first to discover and share this rare fix. Your contribution helps the entire Copilot community!
 📄 License This project is licensed under the MIT License.
