@@ -41,7 +41,7 @@ Reinstall Copilot from the Microsoft Store.
 🔧 4. Khởi động lại máy
 Restart your PC after each step to ensure changes take effect
 📸 Ảnh minh họa lỗi Copilot:
-Copilot timeout error (screenshots/copilot-timeout-error.png)
+![Copilot timeout error](screenshots/copilot-timeout-error.png)
 ## 🚀 Kết quả sau khi fix lỗi | Result After Applying the Fix
 
 > Sau khi áp dụng bản sửa lỗi, Copilot đã hoạt động bình thường trở lại.  
