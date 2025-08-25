@@ -42,10 +42,11 @@ Reinstall Copilot from the Microsoft Store.
 Restart your PC after each step to ensure changes take effect
 ## 🔧 Trước và Sau khi Fix | Before and After Fix
 
+## 🔧 Trước và Sau khi Fix | Before and After Fix
+
 | Trước khi fix | Sau khi fix |
 |---------------|-------------|
-| ![Post-Fix Copilot Welcome Screen](https://github.com/tuannvbg/Copilot-Troubleshooting/blob/main/screenshots/copilot-welcome.png?raw=true)
- | ![Post-Fix Copilot Welcome Screen](screenshots/copilot-welcome.png) |
+| ![Copilot timeout error](https://github.com/tuannvbg/Copilot-Troubleshooting/blob/main/screenshots/copilot-timeout-error.png?raw=true) | ![Post-Fix Copilot Welcome Screen](https://github.com/tuannvbg/Copilot-Troubleshooting/blob/main/screenshots/copilot-welcome.png?raw=true) |
 
 🙌 Credits Special thanks to Tuấn from Bắc Ninh, Vietnam — the first to discover and share this rare fix. Your contribution helps the entire Copilot community!
 📄 License This project is licensed under the MIT License.
