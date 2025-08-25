@@ -46,8 +46,7 @@ Copilot timeout error (screenshots/copilot-timeout-error.png)
 
 > Sau khi áp dụng bản sửa lỗi, Copilot đã hoạt động bình thường trở lại.  
 > After applying the fix, Copilot is now working as expected.
-
-  ![Giao diện chào Copilot](screenshot/copilot-welcome.png)
+![Post-Fix Copilot Welcome Screen](screenshots/copilot-welcome.png)
 
 🙌 Credits Special thanks to Tuấn from Bắc Ninh, Vietnam — the first to discover and share this rare fix. Your contribution helps the entire Copilot community!
 📄 License This project is licensed under the MIT License.
