@@ -44,7 +44,8 @@ Restart your PC after each step to ensure changes take effect
 
 | Trước khi fix | Sau khi fix |
 |---------------|-------------|
-| ![Copilot timeout error](screenshots/copilot-timeout-error.png) | ![Post-Fix Copilot Welcome Screen](screenshots/copilot-welcome.png) |
+| ![Post-Fix Copilot Welcome Screen](https://github.com/tuannvbg/Copilot-Troubleshooting/blob/main/screenshots/copilot-welcome.png?raw=true)
+ | ![Post-Fix Copilot Welcome Screen](screenshots/copilot-welcome.png) |
 
 🙌 Credits Special thanks to Tuấn from Bắc Ninh, Vietnam — the first to discover and share this rare fix. Your contribution helps the entire Copilot community!
 📄 License This project is licensed under the MIT License.
